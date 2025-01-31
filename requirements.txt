@@ -1,0 +1,4 @@
+Django~=5.1.5
+django-debug-toolbar~=5.0.1
+django-crispy-forms
+crispy_bootstrap5
